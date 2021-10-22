@@ -1,0 +1,31 @@
+{
+  "Registration": [
+    {
+      "firstname": "Ajay",
+      "lastname": "vs",
+      "username": "jayvs",
+      "email": "jayvsajay734@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "1"
+    },
+    {
+      "firstname": "Ajay",
+      "lastname1": "Ss",
+      "username": "jayvsajay",
+      "email": "sriaj711@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "Z5KW0Wq"
+    },
+    {
+      "firstname": "Ajay",
+      "lastname1": "Ss",
+      "username": "jayvsajay",
+      "email": "jayvsajay@gmail.com",
+      "password": "12345678",
+      "conpassword": "12345678",
+      "id": "4hGJvoj"
+    }
+  ]
+}
